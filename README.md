@@ -1,8 +1,14 @@
 ### Hola 👋
 
 # 💫 Sobre mi:
-Soy Andres Lopez, estudiante de desarrollo de software. Me encuentro participando en el programa OracleONE de Oracle y Alura Latam, en el bootcamp PoqerUp ofrecido por la enpresa Pragma y tambien estoy estudiando ingenieria de software.<br>
-🔭Me encuentro trabajando en mis propios proyectos, mis estudios y un proyecto del bootcamp PowerUp de la empresa Pragma.<br>👯Me encantaría colaborar con otros developers para hacer nuevos proyectos.<br>🌱Actualmente estoy aprendiendo desarrollo web y back-end.<br>⚡Estoy en busca de trabajo en un gran equipo.
+Soy Andres Lopez, estudiante de desarrollo de software. Me encuentro participando en el programa <br>
+OracleONE de Oracle y Alura Latam, en el bootcamp PoqerUp ofrecido por la enpresa Pragma y <br>
+tambien estoy estudiando ingenieria de software.<br>
+🔭Me encuentro trabajando en mis propios proyectos, mis estudios y un proyecto del bootcamp <br>
+PowerUp de la empresa Pragma.<br>
+👯Me encantaría colaborar con otros developers para hacer nuevos proyectos.<br>
+🌱Actualmente estoy aprendiendo desarrollo web y back-end.<br>
+⚡Estoy en busca de trabajo en un gran equipo.
 
 
 ## 🌐 Redes sociales:
