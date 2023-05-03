@@ -2,7 +2,7 @@
 
 # 💫 Sobre mi:
 Soy Andres Lopez, estudiante de desarrollo de software. Me encuentro participando en el programa OracleONE de Oracle y <br>
-Alura Latam, y estudiando ingenieria de software.<br>
+Alura Latam.<br>
 🔭Me encuentro trabajando en mis propios proyectos y proyectos en las entidades en donde estudio.<br>
 👯Me encantaría colaborar con otros developers para hacer nuevos proyectos.<br>
 🌱Actualmente estoy aprendiendo desarrollo web y back-end.<br>
