@@ -10,7 +10,7 @@ Soy Andres Lopez, estudiante de desarrollo de software.  <br>
 
 
 ## 🌐 Redes sociales:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andreslopez-dev/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreslopez-dev/) 
 [![Gmail](https://img.shields.io/badge/-Gmail-white?logo=gmail)](mailto:andres.lp.dev@gmail.com)
 
 # 💻 Stack tecnologico:
